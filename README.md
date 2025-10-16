@@ -1,8 +1,9 @@
-# 一个简单的不限量的AI b站视频详细总结工作流
-## step1: BilibiliDown——视频下载工具（可以直接下载音频）
+# 一个简单的不限量的AI总结b站视频详细工作流
+## step1: 视频下载：BilibiliDown——视频下载工具（可以直接下载音频）
 [https://github.com/nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)
 
-## step2: AsrTools——AI视频语音提取文字
+## step2: 语音转文字：AsrTools——AI视频语音提取文字
+- 通过这个工具提取下载视频中的语音
 [https://github.com/WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools)
 
 ## step3: AI总结文档
