@@ -1,5 +1,4 @@
 # 一个简单的不限量的AI b站视频详细总结工作流
-## step0: 攻略视频 -> 攻略文案
 ## step1: BilibiliDown——视频下载工具（可以直接下载音频）
 [https://github.com/nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)
 
